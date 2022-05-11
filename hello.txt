@@ -1,2 +1,5 @@
+git remote add origin https://github.com/NotAnAngel24/Test-zoom.git
+git branch -M main
+git push -u origin main
 hello world
 
